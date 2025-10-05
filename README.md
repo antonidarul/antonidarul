@@ -1,7 +1,7 @@
 ## Hallo visitor 😎😎
 
 
-🌱 I’m currently learning [**laravel**](https://laravel.com) framework
+🌱 Hi! I’m Antoni Mustakhim, a passionate Full Stack Developer and Software Engineer who loves turning ideas into real digital products. I enjoy exploring new technologies and finding smarter ways to solve problems. Whether it’s front-end design or back-end logic, I like building things that make people’s lives easier and more enjoyable. Learning something new every day keeps me motivated and inspired. I believe great software comes from curiosity, creativity, and teamwork — and I’m always excited to grow, create, and share what I learn along the way.
 <!--
 **antonidarul/antonidarul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
