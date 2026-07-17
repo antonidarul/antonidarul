@@ -1,7 +1,7 @@
 ## Hallo visitor 😎😎
 
 
-Aspiring Data Engineer
+Aspiring Data Engineering and analytics
 Python | SQL | ETL
 Building data-driven solutions and real-world projects
 Open for freelance & collaboration
